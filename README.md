@@ -1,11 +1,11 @@
-# 🚀 Task 1: Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)
+#  Task 1: Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)
 
 ## 📌 Objective  
 Set up a CI/CD pipeline to **build and deploy a Node.js web application** using **GitHub Actions** and **DockerHub**. This pipeline will automate the process of testing, building, and deploying the application whenever changes are pushed to the **main branch**.
 
 ---
 
-## 🛠️ Tools & Technologies  
+## Tools & Technologies  
 - **GitHub** → Source code hosting & workflow triggers  
 - **GitHub Actions** → CI/CD automation platform  
 - **Node.js** → Sample web application  
@@ -16,7 +16,7 @@ Set up a CI/CD pipeline to **build and deploy a Node.js web application** using 
 
 
 
-## ⚡ CI/CD Pipeline Workflow  
+## CI/CD Pipeline Workflow  
 
 The pipeline is defined inside   './main.yml'.
 
